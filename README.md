@@ -15,7 +15,7 @@
 | 프로그래밍 언어 | 프레임워크 | 데이터베이스 | 도구 | 기타 |
 |----------------|------------|--------------|------|------|
 | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code | ![GitHub](https://img.icons8.com/color/48/000000/github-2.png) GitHub |
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask | ![MariaDB](https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000) MariaDB | ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask | ![MariaDB](https://img.icons8.com/?size=48&id=nrY6pkbRkJCi&format=png&color=000000) MariaDB | ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase |
 | ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![React](https://img.icons8.com/color/48/000000/react-native.png) React | ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) Oracle | ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png) Android Studio | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS |
 
 
