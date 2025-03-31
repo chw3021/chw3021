@@ -11,11 +11,14 @@
   2024. 10. 17 ~ 2024. 11. 13
 
 ## 💻 기술 스택
-- **프로그래밍 언어**: Java, JavaScript, Python
-- **프레임워크**: Spring Boot, Flask, React
-- **데이터베이스**: MySQL, MariaDB, Oracle
-- **도구**: Visual Studio Code, Eclipse, Android Studio
-- **기타**: GitHub, Firebase, AWS
+
+| 프로그래밍 언어 | 프레임워크 | 데이터베이스 | 도구 | 기타 |
+|----------------|------------|--------------|------|------|
+| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code | ![GitHub](https://img.icons8.com/color/48/000000/github-2.png) GitHub |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask | ![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png) MariaDB | ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![React](https://img.icons8.com/color/48/000000/react-native.png) React | ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) Oracle | ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png) Android Studio | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS |
+
+
 
 ## 🌟 프로젝트 경험
 
