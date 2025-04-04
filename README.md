@@ -67,7 +67,7 @@ https://www.spigotmc.org/threads/rpgskills.676660/
 - 지속적인 기술 학습과 실무 경험을 통해, 대규모 트래픽을 처리하는 웹 애플리케이션 및 엔터프라이즈 솔루션 개발에 필요한 기술을 심화 학습하고, 실질적인 성과를 창출할 수 있는 개발자로 성장하고자 합니다.
 
 ## 📫 연락처
-- 이메일: [your_email@example.com](mailto:chw3021@naver.com)
+- 이메일: [chw3021@naver.com](mailto:chw3021@naver.com)
 - GitHub: [chw3021](https://github.com/chw3021)
 
 감사합니다! 😊
