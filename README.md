@@ -217,16 +217,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bookmakase-181717?style=flat-square&logo=github)](https://github.com/chw3021/bookmakase.git)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chw3021&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chw3021&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
